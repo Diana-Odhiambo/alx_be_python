@@ -1,5 +1,5 @@
 # program converts a specific number of hours into seconds
-hours = int(input("Enter the number of hours:"))
+hours = 2
 
 #Define the constant value for seconds in an hour
 seconds_per_hour = 3600
@@ -9,4 +9,3 @@ seconds_result = hours * seconds_per_hour
 
 # printing the results
 print(f"{hours} hour(s) is {seconds_result} seconds")
-
