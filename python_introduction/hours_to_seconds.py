@@ -5,7 +5,7 @@ hours = 2
 seconds_per_hour = 3600
 
 # Calculates the number of seconds in given hours
-seconds_result = hours * seconds_per_hour
+seconds = hours * 3600
 
 # printing the results
 print(f"{hours} hour(s) is {seconds_result} seconds")
