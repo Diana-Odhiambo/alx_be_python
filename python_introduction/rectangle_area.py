@@ -3,7 +3,7 @@ length = 10
 width = 5
 
 # formula for calculating area of a rectangle
-Area = length * width
+area = length * width
 
 # printing the results
-print("The area of the rectangle is:", Area)
+print("The area of the rectangle is:", area)
