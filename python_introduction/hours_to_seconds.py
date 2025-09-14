@@ -8,4 +8,4 @@ seconds_per_hour = 3600
 seconds = hours * 3600
 
 # printing the results
-print(f"{hours} hour(s) is {seconds_result} seconds")
+print(f"{hours} hour(s) is {seconds} seconds")
