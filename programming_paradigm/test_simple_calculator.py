@@ -22,7 +22,7 @@ class TestSimpleCalculator(unittest.TestCase):
         self.assertEqual(self.calc.multiply(2, 2), 4)
         self.assertEqual(self.calc.multiply(6, 3), 18)
 
-    def test_divide(self):
+    def test_division(self):
         """Test the division method."""
         self.assertEqual(self.calc.divide(10, 2), 5)
         # When dividing by zero, it should return None (not raise an error)
